@@ -290,9 +290,8 @@ logging.info(f"Total Unique Codes: {len(code_list)}")
 Limit of 500 calls per key.
 Can make 50 calls every query.
 '''
-# Drexel API Key: "024f5a0ca6e7494cbec2ea4088cd4a9d"
-# GMAIL API Key: "73df4bb81189431089fe2f247af35ce1"
-api_key = "73df4bb81189431089fe2f247af35ce1"
+
+api_key = "API KEY GOES HERE"
 start_year = 2019
 end_year = 2022
 for x in range(0, len(code_list), 50):

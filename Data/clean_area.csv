@@ -1,0 +1,24 @@
+area_code,area_name
+S11A,"Boston-Cambridge-Newton, MA-NH"
+S12A,"New York-Newark-Jersey City, NY-NJ-PA"
+S12B,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"
+S23A,"Chicago-Naperville-Elgin, IL-IN-WI"
+S23B,"Detroit-Warren-Dearborn, MI"
+S24A,"Minneapolis-St.Paul-Bloomington, MN-WI"
+S24B,"St. Louis, MO-IL"
+S35A,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
+S35B,"Miami-Fort Lauderdale-West Palm Beach, FL"
+S35C,"Atlanta-Sandy Springs-Roswell, GA"
+S35D,"Tampa-St. Petersburg-Clearwater, FL"
+S35E,"Baltimore-Columbia-Towson, MD"
+S37A,"Dallas-Fort Worth-Arlington, TX"
+S37B,"Houston-The Woodlands-Sugar Land, TX"
+S48A,"Phoenix-Mesa-Scottsdale, AZ"
+S48B,"Denver-Aurora-Lakewood, CO"
+S49A,"Los Angeles-Long Beach-Anaheim, CA"
+S49B,"San Francisco-Oakland-Hayward, CA"
+S49C,"Riverside-San Bernardino-Ontario, CA"
+S49D,Seattle-Tacoma-Bellevue WA
+S49E,"San Diego-Carlsbad, CA"
+S49F,Urban Hawaii
+S49G,Urban Alaska

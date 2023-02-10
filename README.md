@@ -51,7 +51,7 @@ LOG_FILE = LOG_DIR + f"Log_{datetime.now().strftime('%H%M%S')}.log"
 ```python
 def directory_setup(dir_list):
     '''
-    DESCRIPTION > If the directory does not exist it will create it
+    DESCRIPTION -> If the directory does not exist it will create it
     '''
     for directory in dir_list:
         if not os.path.exists(directory):
